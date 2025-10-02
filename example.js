@@ -1,4 +1,4 @@
-let globalCVar = "I am a global variable";
+ let globalCVar = "I am a global variable";
 function exampleFunction() {
     let localCVar = "I am a local variable";
     if (true) {
